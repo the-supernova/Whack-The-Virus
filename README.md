@@ -3,7 +3,7 @@ Play the traditional retro game **"Whack-A-Virus"** but in a different way where
 https://the-supernova.github.io/Whack-The-Virus
 
 ## Screenshots
-![demo](/images/Screenshot (3).png)
+![demo](</images/Screenshot (3).png>)
 ## Motivation
 Learning the JavaScript Algorithms through game projects is the best way to start(according to me) and so was planned by me but I was confused with what game to start.
 Then came the word **Whack a mole** in my mind and to showcase our current scenario, I decided to make it a virus smashing game.
